@@ -1,0 +1,11 @@
+.responsive-drawer {
+    display: flex;
+    gap:1rem;
+    width: 100%;
+    .drawer-container {
+        width: 10%;
+    }
+    .child {
+        width: 90%;
+    }
+}
